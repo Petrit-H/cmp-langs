@@ -1,4 +1,4 @@
-import English from "./en.json";
-import Czech from "./cs.json";
+export const English = "./en.json";
+export const Czech = "./cs.json";
 
-export default [English, Czech];
+// export default { English, Czech };
