@@ -1,6 +1,6 @@
 {
   "test": {
-    "app-title": "při i18next",
+    "appTitle": "při i18next",
     "home": "Domov",
     "about": "Kolem",
     "lead": "Vítejte na mém malém místě na interwebech, {{username}}!",

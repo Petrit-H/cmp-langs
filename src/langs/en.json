@@ -1,6 +1,6 @@
 {
   "test": {
-    "app-title": "With i18next",
+    "appTitle": "With i18next",
     "home": "Home",
     "about": "About",
     "lead": "Welcome to my little spot on the interwebs, {{username}}!",
