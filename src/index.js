@@ -6,5 +6,6 @@
 import English from "./langs/en.json" assert { type: "json" };
 import Czech from "./langs/cs.json" assert { type: "json" };
 
+// console.log("🚀 ~ ", English,Czech)
 
 export const data = [English, Czech];
