@@ -1,3 +1,3 @@
-import {data} from './index'
+import {English,Czech} from './index'
 
-console.log(data)
+console.log(English)
